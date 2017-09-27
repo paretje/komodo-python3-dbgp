@@ -5,7 +5,7 @@ NAME = 'komodo-python3-dbgp'
 
 setup(
     name=NAME,
-    version='9.0.1.dev0',
+    version='11.0.0',
     description='The ActiveState Komodo DBGP server',
 
     author="Shane Caraveo, Trent Mick",
